@@ -1,5 +1,5 @@
-
-  [Check out my progress!](https://www.codedex.io/@joaogonp/30-nites-of-code)  
+## #30NitesOfCode:
+  #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@joaogonp/30-nites-of-code)  
   ![@joaogonp #30NitesOfCode](https://www.codedex.io/api/petStatus?user=joaogonp)
 <!--
 **joaogonp/joaogonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
