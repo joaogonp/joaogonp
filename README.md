@@ -1,5 +1,4 @@
-## Hi there 👋
-
+(https://www.codedex.io/api/petStatus?user=joaogonp)
 <!--
 **joaogonp/joaogonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
